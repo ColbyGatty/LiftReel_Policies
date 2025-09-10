@@ -110,8 +110,7 @@ C&M shall not be liable for any failure or delay in performing its obligations u
 ## 15. Contact
 
 For questions, support, or inquiries regarding these Terms, please contact:  
-**C&M Technologies LLC**  
-1234 Innovation Drive, Los Angeles, CA 90001, USA  
+**C&M Technologies LLC**   
 Email: [develop@cm-technologies.com](mailto:develop@cm-technologies.com)  
 For copyright-related inquiries, contact: [develop@cm-technologies.com](mailto:develop@cm-technologies.com)
 
