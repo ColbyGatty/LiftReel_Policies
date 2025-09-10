@@ -1,117 +1,180 @@
-# LiftReel Terms and Conditions
+# LiftReel Terms of Service (including Software License/EULA)
 
 **Last Updated: September 9, 2025**
 
-Welcome to **LiftReel**, a social media, gaming, and fitness application operated by **C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California. These Terms and Conditions ("Terms") govern your access to and use of LiftReel, including its website, mobile application, and related services (collectively, the "App"). By accessing, downloading, installing, or using the App, you agree to be bound by these Terms, our End User License Agreement (EULA) at [https://colbygatty.github.io/LiftReel_Policies/eula](https://colbygatty.github.io/LiftReel_Policies/eula), and, where applicable, our License Agreement at [https://colbygatty.github.io/LiftReel_Policies/license_agreement](https://colbygatty.github.io/LiftReel_Policies/license_agreement). If you do not agree, you must not access or use the App.
+Welcome to **LiftReel**, a social media, gaming, and fitness application operated by **C&M Technologies LLC** (“C&M,” “we,” “us,” or “our”), a limited liability company organized under the laws of the State of California. These Terms of Service (“Terms”) govern your access to and use of **LiftReel**, including its website, mobile application, and related services (collectively, the “App” or “Services”).
 
-## 1. Acceptance of Terms
+By creating an account, accessing, downloading, installing, or using the App, you agree to these Terms (which include and incorporate the Software License/EULA in Section 2) and acknowledge our Privacy Policy at [https://colbygatty.github.io/LiftReel_Policies/privacy](https://colbygatty.github.io/LiftReel_Policies/privacy). If you do not agree, do not access or use the App.
 
-- You must be at least 13 years old to use the App. If you are under 18, you must have verifiable parental or legal guardian consent in compliance with the **Children’s Online Privacy Protection Act (COPPA)**. By using the App, you represent and warrant that you meet these eligibility requirements and agree to these Terms, the EULA, and the License Agreement (if applicable).
-- These Terms constitute a legally binding agreement between you and C&M Technologies LLC. If you are accepting on behalf of an entity, you represent that you have the authority to bind such entity.
-- If you access the App from outside the United States, you are responsible for complying with applicable local laws, including data protection regulations (e.g., GDPR for European Union residents).
+## 1. Eligibility & Accounts
 
-## 2. User Accounts
+### 1.1 Age
+You must be at least 13 years old to use the App, in compliance with the **Children’s Online Privacy Protection Act (COPPA)**. If you are 13–17, you represent that you have consent from a parent or legal guardian where required by applicable law. Users under 13 are strictly prohibited, and misrepresenting your age is a violation of these Terms. If we discover or are notified that a user is under 13, their account and data will be deleted promptly, as described in our Privacy Policy. Parents or guardians may contact us at [develop@cm-technologies.com](mailto:develop@cm-technologies.com) to request deletion of a child’s data.
 
-- **Account Creation**: To access certain App features (e.g., competitions, leaderboards, user-generated content), you must create an account and provide accurate, complete, and current information. You agree to update your information as necessary to maintain its accuracy.
-- **Account Security**: You are responsible for maintaining the confidentiality of your account credentials (e.g., username, password) and for all activities conducted under your account. You agree to notify us immediately of any unauthorized access or use at [develop@cm-technologies.com](mailto:develop@cm-technologies.com).
-- **Account Suspension/Termination**: We reserve the right to suspend, terminate, or restrict your account or access to the App at our sole discretion, with or without notice, for violations of these Terms, the EULA, the License Agreement, or applicable law, or for any reason deemed necessary to protect the App or other users.
+### 1.2 Account Creation & Security
+You must provide accurate and current information when creating an account and keep it updated. You are responsible for maintaining the confidentiality of your credentials and for all activities under your account. Notify us immediately of unauthorized use at [develop@cm-technologies.com](mailto:develop@cm-technologies.com).
 
-## 3. User-Generated Content (UGC)
+### 1.3 Suspension/Termination
+We may suspend, restrict, or terminate your account or access to the App at any time, with or without notice, if we believe you have violated these Terms, applicable law, or if necessary to protect the App or other users.
 
-The App allows you to record and post videos and create competition ideas in the community tab and leaderboards ("UGC").
+## 2. Software License (EULA) — Incorporated Into These Terms
 
-- **In-App Recording Only**: All videos submitted to the App (e.g., for competitions or leaderboards) must be recorded in real-time using the App’s built-in recording feature. Uploading, importing, or submitting pre-recorded videos, videos saved on your device, or externally edited videos is strictly prohibited to ensure fairness, authenticity, and integrity of competitions. Any attempt to bypass this restriction may result in immediate account suspension or termination.
-- **License Grant**: By posting UGC, you grant C&M Technologies LLC a perpetual, irrevocable, non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to host, use, store, reproduce, modify, adapt, publish, translate, distribute, publicly perform, publicly display, and create derivative works of your UGC for the purpose of operating, promoting, improving, or marketing the App and related services. You retain ownership of your UGC but waive any right to restrict C&M’s use as described or to claim additional compensation for such use.
-- **Representations and Warranties**: You represent and warrant that your UGC:
-  - Is recorded by you in real-time using the App’s recording feature.
-  - Is original to you, or you have obtained all necessary rights, permissions, or licenses to post it.
-  - Does not infringe any third-party rights, including but not limited to intellectual property rights (e.g., copyright, trademark, patent) or rights of privacy or publicity.
-  - Is not illegal, defamatory, obscene, pornographic, harassing, threatening, discriminatory, or otherwise prohibited by these Terms or applicable law.
-  - Complies with all applicable laws, regulations, and App guidelines.
-- **Community Validation**: UGC submitted to leaderboards or competitions is subject to community validation or invalidation processes. C&M does not guarantee the accuracy, fairness, or outcome of community decisions and is not liable for disputes, errors, or outcomes arising from such processes.
-- **Content Moderation**: We reserve the right, but are not obligated, to monitor, review, edit, remove, or restrict access to UGC at our sole discretion, without notice, if it violates these Terms, is deemed inappropriate, or for any other reason. We are not responsible for any failure or delay in removing UGC.
+By agreeing to these Terms, you also agree to this Software License/EULA, which is part of and incorporated into the Terms.
 
-## 4. Competitions and Rewards
+### 2.1 Grant
+We grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the App on a device you own or control, solely for personal, non-commercial use, subject to these Terms.
 
-- **Competitions**: You may create or participate in exercise-based competitions (e.g., max bench press in pounds) using videos recorded in-app. You are solely responsible for ensuring that competitions are safe, legal, and compliant with these Terms. C&M does not endorse or verify the safety of user-created competitions.
-- **Rewards**: Virtual rewards (e.g., trophies, experience points (XP), profile customization, virtual gym upgrades) are provided for participation or achievement in competitions or leaderboards. These rewards are virtual, have no monetary value, and cannot be redeemed, transferred, or exchanged for cash or other consideration. C&M reserves the right to modify, discontinue, or revoke rewards at any time, with or without notice.
-- **Liability**: To the fullest extent permitted by law, C&M, its affiliates, officers, directors, employees, or agents are not liable for any injuries, damages, losses, or disputes arising from participation in competitions or challenges, whether created by you or other users. You participate at your own risk and assume full responsibility for assessing the safety, feasibility, and legality of any exercise or challenge before participating.
+### 2.2 Restrictions
+You will not:
+- Copy, modify, adapt, translate, distribute, publish, or create derivative works of the App or its content;
+- Reverse-engineer, decompile, disassemble, or attempt to derive the source code or underlying structure, except where permitted by law;
+- Sell, rent, lease, sublicense, assign, or transfer the App or your rights hereunder;
+- Remove or alter proprietary notices;
+- Use the App to develop, replicate, or promote a competing application or service;
+- Circumvent security, technical measures, or integrity features of the App;
+- Install or use the App on multiple devices under a single license unless we expressly permit it.
 
-## 5. Intellectual Property
+### 2.3 In-App Recording Requirement (Authenticity Rule)
+All videos submitted for competitions or leaderboards must be recorded in real time using the App’s built-in recorder. Uploading or submitting pre-recorded, device-stored, externally edited, or otherwise manipulated videos is prohibited. Attempts to bypass this feature (technical or otherwise) may lead to removal, disqualification, and/or immediate account termination.
 
-- **App IP**: The App, including all code, designs, graphics, logos, text, leaderboards, virtual items, user interfaces, and the unique combination of social media, gaming, and fitness features, is owned by C&M Technologies LLC and protected by copyright, trademark, patent, trade secret, and other intellectual property laws. You may not copy, modify, distribute, reproduce, reverse-engineer, decompile, disassemble, or create derivative works of the App or its content without prior written consent from C&M.
-- **User IP**: You retain intellectual property rights in your UGC, subject to the license granted to C&M in Section 3. You may not use, reproduce, or distribute another user’s UGC without their explicit permission.
-- **DMCA Compliance**: If you believe your copyright has been infringed by UGC on the App, you may submit a takedown notice to [develop@cm-technologies.com](mailto:develop@cm-technologies.com) that includes:
-  - Your name, address, phone number, and email address.
-  - A description of the copyrighted work allegedly infringed.
-  - The location (e.g., URL or App section) of the allegedly infringing material.
-  - A statement, under penalty of perjury, that you have a good faith belief the material is infringing and that you are the copyright owner or authorized to act on their behalf.
-  - Your physical or electronic signature.
-  - If your UGC is removed, you may submit a counter-notice to [develop@cm-technologies.com](mailto:develop@cm-technologies.com) within 10 business days, including the above details and a statement under penalty of perjury that the material was removed in error. We comply with the Digital Millennium Copyright Act (DMCA) and reserve the right to terminate accounts of repeat infringers.
-- **Feedback**: Any feedback, suggestions, or ideas you provide about the App are considered non-confidential and may be used by C&M without compensation or attribution.
+### 2.4 Ownership
+The App (including code, designs, graphics, logos, text, leaderboards, virtual items, and the unique combination of social media/gaming/fitness features) is owned by C&M and protected by intellectual property laws. You retain ownership of your User-Generated Content (UGC) subject to the license granted to C&M in Section 4.
+
+### 2.5 Updates & Changes
+We may release updates, patches, or new versions. Continued use constitutes acceptance of updated terms and may require updated hardware/software.
+
+### 2.6 Termination of License
+This license ends when these Terms terminate or upon breach. On termination, you must cease using, uninstall, and delete the App and all related data from your device.
+
+## 3. Health & Safety; Assumption of Risk
+You understand that exercise-related activities, challenges, or competitions may involve inherent risks, including personal injury, property damage, emotional distress, or worse. You are solely responsible for assessing your physical condition and participating safely and lawfully. To the fullest extent permitted by law, you assume all risks associated with your participation and use of the App.
+
+## 4. User-Generated Content (UGC)
+
+### 4.1 UGC & Community Spaces
+The App enables posting of videos (recorded in-app), ideas for competitions, comments, and other content (“UGC”). You are solely responsible for your UGC.
+
+### 4.2 License You Grant to C&M
+By posting UGC, you grant C&M a perpetual, irrevocable, non-exclusive, transferable, sublicensable, royalty-free, worldwide license to host, use, store, reproduce, modify, adapt, publish, translate, distribute, publicly perform, publicly display, and create derivative works of your UGC to operate, promote, improve, and market the App and related services. Data processing related to UGC is governed by our Privacy Policy at [https://colbygatty.github.io/LiftReel_Policies/privacy](https://colbygatty.github.io/LiftReel_Policies/privacy). You retain ownership of your UGC.
+
+### 4.3 Your Representations
+You represent and warrant that your UGC:
+- Is recorded by you in real time using the App’s recorder (for video submissions);
+- Is original to you or you hold necessary rights/permissions;
+- Does not infringe intellectual property, privacy, or publicity rights;
+- Is not illegal, defamatory, obscene, pornographic, harassing, hateful, discriminatory, or otherwise prohibited;
+- Complies with these Terms and applicable laws.
+
+### 4.4 Community Validation
+UGC submitted to leaderboards/competitions may be validated or invalidated by the community. C&M does not guarantee the accuracy, fairness, or outcome of community decisions and is not liable for related disputes.
+
+### 4.5 Moderation
+We may (but are not obligated to) monitor, review, remove, restrict, or edit UGC at our discretion, without notice.
+
+### 4.6 No Publisher Liability
+To the fullest extent permitted by law and consistent with applicable safe-harbor protections, C&M is not liable for UGC posted by users.
+
+## 5. Competitions, Rewards & Virtual Items
+
+### 5.1 Competitions
+You may create or participate in exercise-based competitions (e.g., 1-rep max). You are solely responsible for ensuring safety and legality.
+
+### 5.2 Rewards & Virtual Items
+Trophies, XP, profile customization, virtual gym upgrades, and similar benefits are virtual only, have no monetary value, and are not redeemable for cash or property. We may modify, revoke, or discontinue rewards or features at any time.
+
+### 5.3 Disqualification
+Submissions violating the In-App Recording Requirement or other rules may be disqualified and/or removed.
 
 ## 6. Prohibited Conduct
-
 You agree not to:
+- Upload/import pre-recorded or externally edited videos for competitions or leaderboards;
+- Submit fraudulent, manipulated, staged, or misleading content;
+- Harass, bully, defame, threaten, or discriminate against others;
+- Create competitions promoting unsafe, illegal, or unethical behavior;
+- Scrape, crawl, harvest, or use bots or automation to access the App;
+- Interfere with or disrupt the App’s security or operation;
+- Infringe any third-party intellectual property, privacy, or publicity rights;
+- Violate any law or regulation.
 
-- Upload, import, or submit pre-recorded videos or bypass the App’s in-app recording feature.
-- Submit fraudulent, manipulated, staged, or misleading videos or content to competitions or leaderboards.
-- Post UGC that is illegal, defamatory, obscene, pornographic, threatening, harassing, discriminatory, or promotes dangerous, unsafe, or unlawful activities.
-- Create competitions that encourage unsafe, illegal, harmful, or unethical behavior.
-- Harass, bully, discriminate against, or defame other users or third parties.
-- Attempt to hack, reverse-engineer, decompile, disassemble, or disrupt the App’s functionality, security, or integrity.
-- Use automated scripts, bots, spiders, or data scraping tools to access or extract App content or data.
-- Violate any applicable local, state, national, or international laws or regulations.
-- Infringe any third-party intellectual property, privacy, or publicity rights.
-- Use the App to develop or promote a competing application or service.
+## 7. Intellectual Property & DMCA
 
-## 7. Limitation of Liability
+### 7.1 App IP
+We own all rights in the App and its content (excluding UGC). All rights not expressly granted are reserved.
 
-- **No Liability for UGC**: Pursuant to Section 230 of the Communications Decency Act, C&M is not liable for any UGC, including its accuracy, legality, quality, or impact. We are a platform and not the publisher or speaker of UGC.
-- **No Liability for User Actions**: To the fullest extent permitted by law, C&M, its affiliates, officers, directors, employees, or agents are not liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages, including but not limited to personal injury, property damage, emotional distress, loss of profits, data loss, or business interruption, arising from or related to your use of the App, participation in competitions, interactions with other users, or community validation decisions, even if advised of the possibility of such damages.
-- **Indemnity**: You agree to indemnify, defend, and hold harmless C&M Technologies LLC, its affiliates, officers, directors, employees, and agents from any claims, liabilities, damages, losses, or expenses (including reasonable attorneys’ fees) arising from your UGC, use of the App, violation of these Terms, or infringement of any third-party rights.
-- **Disclaimer**: The App is provided “as is” and “as available” without warranties of any kind, whether express, implied, statutory, or otherwise, including but not limited to warranties of merchantability, fitness for a particular purpose, title, or non-infringement. C&M does not guarantee the App’s availability, accuracy, security, or error-free operation. Some jurisdictions do not allow the exclusion of implied warranties or limitation of liability, so these exclusions may not apply to you to the extent prohibited by law.
+### 7.2 UGC IP
+You retain rights in your UGC subject to the license in Section 4.
 
-## 8. Termination
+### 7.3 DMCA
+To submit a copyright complaint, email [develop@cm-technologies.com](mailto:develop@cm-technologies.com) with: (i) your contact information; (ii) identification of the copyrighted work; (iii) location of the allegedly infringing material; (iv) a statement under penalty of perjury of good-faith belief and your authority; and (v) your physical or electronic signature. To file a counter-notice, email us within 10 business days with: (i) identification of the removed material; (ii) a statement under penalty of perjury that you have a good-faith belief the material was removed in error; (iii) your contact information and consent to jurisdiction in Los Angeles County, California; and (iv) your signature. We may remove content and/or terminate repeat infringers.
 
-- C&M may suspend, restrict, or terminate your access to the App or your account at any time, with or without cause or notice, including for violations of these Terms, the EULA, the License Agreement, or applicable law, or for any reason deemed necessary to protect the App or other users.
-- Upon termination, your account, UGC, virtual rewards, and access to the App may be deleted, and you must cease all use of the App. Sections 3, 5, 6, 7, 9, 10, 11, and 12 shall survive termination.
+## 8. App Store Terms; Purchases
 
-## 9. Governing Law and Dispute Resolution
+### 8.1 App Stores
+You must comply with applicable app store rules (e.g., Apple App Store, Google Play). Those rules may supplement these Terms.
 
-- **Governing Law**: These Terms are governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law principles.
-- **Binding Arbitration**: Any dispute, controversy, or claim arising out of or relating to these Terms, or the breach thereof, shall be resolved exclusively by binding arbitration administered by the American Arbitration Association (AAA) under its Commercial Arbitration Rules. The arbitration shall take place in Los Angeles, California, in the English language, and the arbitrator’s decision shall be final and binding. The costs of arbitration shall be borne equally by the parties unless otherwise determined by the arbitrator.
-- **Waiver of Class Action**: You agree that any arbitration or proceeding shall be conducted on an individual basis only. You expressly waive any right to participate in a class action, class-wide arbitration, or representative action against C&M.
-- **Jurisdiction for Non-Arbitrable Claims**: If arbitration is deemed unenforceable, any legal action or proceeding shall be brought exclusively in the state or federal courts located in Los Angeles County, California, and you consent to the personal jurisdiction and venue of such courts.
+### 8.2 In-App Purchases
+If offered, in-app purchases/subscriptions are processed by the app store or our payment provider and are subject to their terms and policies (including refunds/cancellations). C&M is not responsible for store disputes.
 
-## 10. Privacy
+## 9. Privacy
+Your use of the App is subject to our Privacy Policy at [https://colbygatty.github.io/LiftReel_Policies/privacy](https://colbygatty.github.io/LiftReel_Policies/privacy). It explains how we collect, use, share, and protect personal information, including videos recorded in-app. If these Terms conflict with the Privacy Policy as to data processing, the Privacy Policy controls for that topic.
 
-Your use of the App is subject to our Privacy Policy, available at [https://colbygatty.github.io/LiftReel_Policies/privacy](https://colbygatty.github.io/LiftReel_Policies/privacy) until our website is fully operational. The Privacy Policy governs the collection, use, storage, and protection of your personal information, including videos recorded in the App. You acknowledge and agree to the terms of the Privacy Policy as a condition of using the App.
+## 10. Disclaimers; Limitation of Liability; Indemnity
 
-## 11. App Store and In-App Purchases
+### 10.1 Disclaimers
+The App is provided “as is” and “as available” without warranties of any kind, whether express, implied, statutory, or otherwise, including but not limited to merchantability, fitness for a particular purpose, title, and non-infringement. We do not guarantee availability, security, accuracy, or error-free operation.
 
-- You agree to comply with all applicable app store guidelines (e.g., Apple App Store, Google Play Store), which may supplement or modify these Terms.
-- If the App offers in-app purchases or subscriptions, such transactions are subject to the terms of the applicable app store and our payment processor. Refunds, cancellations, or disputes related to in-app purchases are governed by the app store’s policies, and C&M is not responsible for such disputes.
+### 10.2 Limitation of Liability
+To the fullest extent permitted by law, C&M and its affiliates, officers, directors, employees, and agents are not liable for any indirect, incidental, consequential, special, exemplary, or punitive damages; or for lost profits, data loss, business interruption, personal injury, property damage, or emotional distress arising from or related to the App, competitions, UGC, or user interactions—even if advised of such possibility. In jurisdictions that do not allow certain exclusions, our liability is limited to the maximum extent allowed by law.
 
-## 12. Modifications
+### 10.3 Assumption of Risk
+You participate in challenges/competitions at your own risk (see Section 3).
 
-- C&M reserves the right to modify or amend these Terms at any time by posting the updated Terms on the App, at [https://colbygatty.github.io/LiftReel_Policies/terms](https://colbygatty.github.io/LiftReel_Policies/terms), or by notifying you through the App. Continued use of the App after such changes constitutes your acceptance of the updated Terms.
-- We may also modify, suspend, or discontinue the App or any features (e.g., leaderboards, competitions, rewards) at our discretion, with or without notice, and without liability to you.
+### 10.4 Indemnity
+You agree to indemnify, defend, and hold harmless C&M and its affiliates, officers, directors, employees, and agents from any claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising from your UGC, your use of the App, or your breach of these Terms or violation of third-party rights.
 
-## 13. Force Majeure
+## 11. Governing Law; Dispute Resolution
 
-C&M shall not be liable for any failure or delay in performing its obligations under these Terms due to circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, pandemics, war, terrorism, government regulations, strikes, labor disputes, cybersecurity incidents, or technical failures.
+### 11.1 Governing Law
+These Terms are governed by the laws of the State of California, without regard to conflict-of-law rules.
 
-## 14. Severability and Non-Waiver
+### 11.2 Binding Arbitration
+Any dispute, controversy, or claim arising out of or relating to these Terms (including the EULA in Section 2) shall be resolved exclusively by binding arbitration administered by the American Arbitration Association (AAA) under its Commercial Arbitration Rules. The arbitration shall take place in Los Angeles, California, in English. The arbitrator’s decision shall be final and binding. Costs of arbitration shall be borne as allocated by the arbitrator.
 
-- **Severability**: If any provision of these Terms is found to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it enforceable, and the remaining provisions shall remain in full force and effect.
-- **Non-Waiver**: C&M’s failure to enforce any right or provision of these Terms shall not constitute a waiver of such right or provision unless expressly agreed in writing.
+### 11.3 Class-Action Waiver
+All proceedings are on an individual basis only. You waive any right to participate in a class action, class-wide arbitration, or representative action.
 
-## 15. Contact
+### 11.4 Courts for Non-Arbitrable Claims
+If arbitration is found unenforceable for a specific claim, such claim must be brought exclusively in the state or federal courts in Los Angeles County, California, and you consent to their personal jurisdiction and venue.
 
-For questions, support, or inquiries regarding these Terms, please contact:  
-**C&M Technologies LLC**   
-Email: [develop@cm-technologies.com](mailto:develop@cm-technologies.com)  
-For copyright-related inquiries, contact: [develop@cm-technologies.com](mailto:develop@cm-technologies.com)
+## 12. International Use
+If you access the App from outside the United States, you are responsible for compliance with local laws, including data protection regulations (e.g., GDPR). Our Privacy Policy describes cross-border data transfers and safeguards.
 
-By using **LiftReel**, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
+## 13. Changes to the App & to These Terms
+We may modify, suspend, or discontinue the App or any feature at any time, with or without notice. We may update these Terms by posting an updated version at [https://colbygatty.github.io/LiftReel_Policies/terms](https://colbygatty.github.io/LiftReel_Policies/terms) or in-app. Continued use after changes become effective constitutes your acceptance of the updated Terms.
+
+## 14. Third-Party Services & Links
+The App may link to or integrate third-party websites, content, or services. We are not responsible for their content or practices. Review their terms and policies before using them.
+
+## 15. Beta Features; Open-Source
+We may release features labeled beta/preview that are provided as is and may change or be discontinued at any time. The App may contain components licensed under open-source licenses; those licenses govern the components in case of conflict.
+
+## 16. Force Majeure
+We are not liable for delays or failure to perform due to causes beyond our reasonable control, including acts of God, natural disasters, pandemics, war, terrorism, government actions, labor disputes, cyber incidents, or internet/hosting failures.
+
+## 17. Term; Termination; Survival
+These Terms are effective until terminated. You may terminate by ceasing use and deleting the App. We may terminate at any time (see Section 1.3). Upon termination, your license ends and you must stop using, uninstall, and delete the App and all related data. Sections 2.6, 3, 4.2–4.6, 5.2–5.3, 6–16, 17 (Survival), and 18–20 survive termination.
+
+## 18. Precedence
+These Terms (including the Software License/EULA in Section 2) control over any conflicting language in other policies or documents referenced here. If there is a conflict specifically about personal data processing, the Privacy Policy controls for that topic.
+
+## 19. Severability; Non-Waiver; Assignment
+If any provision is held invalid or unenforceable, it will be enforced to the maximum extent permissible and the remainder will remain in effect. Our failure to enforce a right or provision is not a waiver. You may not assign or transfer your rights without our prior written consent; we may assign these Terms as part of a merger, acquisition, or sale of assets.
+
+## 20. Entire Agreement; Notices; Contact
+These Terms (including the incorporated Software License/EULA) constitute the entire agreement between you and C&M regarding the App and supersede prior or contemporaneous agreements relating to the App (other than the Privacy Policy, which is separate and complementary).
+
+**Contact**:  
+**C&M Technologies LLC**  
+Email: [develop@cm-technologies.com](mailto:develop@cm-technologies.com)
+
+By using **LiftReel**, you acknowledge that you have read, understood, and agree to be bound by these Terms (including the Software License/EULA).
