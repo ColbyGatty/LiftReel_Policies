@@ -2,7 +2,7 @@
 
 **Last Updated: September 9, 2025**
 
-Welcome to **LiftReel**, a social media, gaming, and fitness application operated by **C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California. These Terms and Conditions ("Terms") govern your access to and use of LiftReel, including its website, mobile application, and related services (collectively, the "App"). By accessing, downloading, installing, or using the App, you agree to be bound by these Terms, our End User License Agreement (EULA) at [https://liftreel.com/eula](https://liftreel.com/eula), and, where applicable, our License Agreement at [https://liftreel.com/license](https://liftreel.com/license). If you do not agree, you must not access or use the App.
+Welcome to **LiftReel**, a social media, gaming, and fitness application operated by **C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California. These Terms and Conditions ("Terms") govern your access to and use of LiftReel, including its website, mobile application, and related services (collectively, the "App"). By accessing, downloading, installing, or using the App, you agree to be bound by these Terms, our End User License Agreement (EULA) at [https://colbygatty.github.io/LiftReel_Policies/eula](https://colbygatty.github.io/LiftReel_Policies/eula), and, where applicable, our License Agreement at [https://colbygatty.github.io/LiftReel_Policies/license_agreement](https://colbygatty.github.io/LiftReel_Policies/license_agreement). If you do not agree, you must not access or use the App.
 
 ## 1. Acceptance of Terms
 
@@ -86,7 +86,7 @@ You agree not to:
 
 ## 10. Privacy
 
-Your use of the App is subject to our Privacy Policy, available at [https://liftreel.com/privacy](https://liftreel.com/privacy) or temporarily at [https://raw.githubusercontent.com/[YourUsername]/[RepoName]/main/PRIVACY.md](https://raw.githubusercontent.com/[YourUsername]/[RepoName]/main/PRIVACY.md) until our website is fully operational. The Privacy Policy governs the collection, use, storage, and protection of your personal information, including videos recorded in the App. You acknowledge and agree to the terms of the Privacy Policy as a condition of using the App.
+Your use of the App is subject to our Privacy Policy, available at [https://colbygatty.github.io/LiftReel_Policies/privacy](https://colbygatty.github.io/LiftReel_Policies/privacy) until our website is fully operational. The Privacy Policy governs the collection, use, storage, and protection of your personal information, including videos recorded in the App. You acknowledge and agree to the terms of the Privacy Policy as a condition of using the App.
 
 ## 11. App Store and In-App Purchases
 
@@ -95,7 +95,7 @@ Your use of the App is subject to our Privacy Policy, available at [https://lift
 
 ## 12. Modifications
 
-- C&M reserves the right to modify or amend these Terms at any time by posting the updated Terms on the App, our website at [https://liftreel.com/terms](https://liftreel.com/terms), or by notifying you through the App. Continued use of the App after such changes constitutes your acceptance of the updated Terms.
+- C&M reserves the right to modify or amend these Terms at any time by posting the updated Terms on the App, at [https://colbygatty.github.io/LiftReel_Policies/terms](https://colbygatty.github.io/LiftReel_Policies/terms), or by notifying you through the App. Continued use of the App after such changes constitutes your acceptance of the updated Terms.
 - We may also modify, suspend, or discontinue the App or any features (e.g., leaderboards, competitions, rewards) at our discretion, with or without notice, and without liability to you.
 
 ## 13. Force Majeure

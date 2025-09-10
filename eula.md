@@ -2,7 +2,7 @@
 
 **Last Updated: September 9, 2025**
 
-This End User License Agreement ("EULA") is a legally binding agreement between you ("User" or "you") and **C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California, governing your use of **LiftReel**, including its mobile application, website, and related services (collectively, the "Software"). By installing, accessing, or using the Software, you agree to be bound by this EULA, the Terms and Conditions at [https://liftreel.com/terms](https://liftreel.com/terms), and, where applicable, the License Agreement at [https://liftreel.com/license](https://liftreel.com/license). If you do not agree, you must not install, access, or use the Software.
+This End User License Agreement ("EULA") is a legally binding agreement between you ("User" or "you") and **C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California, governing your use of **LiftReel**, including its mobile application, website, and related services (collectively, the "Software"). By installing, accessing, or using the Software, you agree to be bound by this EULA, the Terms and Conditions at [https://colbygatty.github.io/LiftReel_Policies/terms](https://colbygatty.github.io/LiftReel_Policies/terms), and, where applicable, the License Agreement at [https://colbygatty.github.io/LiftReel_Policies/license_agreement](https://colbygatty.github.io/LiftReel_Policies/license_agreement). If you do not agree, you must not install, access, or use the Software.
 
 ## 1. License Grant
 
