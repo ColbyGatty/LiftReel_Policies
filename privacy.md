@@ -2,7 +2,7 @@
 
 **Last Updated: September 9, 2025**
 
-**C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California, is committed to protecting your privacy. This Privacy Policy governs the collection, use, storage, and disclosure of personal information through the **LiftReel** app, including its website, mobile application, and related services (collectively, the "App"). By accessing, downloading, installing, or using the App, you agree to this Privacy Policy, our Terms and Conditions at [https://colbygatty.github.io/LiftReel_Policies/terms](https://colbygatty.github.io/LiftReel_Policies/terms), our End User License Agreement (EULA) at [https://colbygatty.github.io/LiftReel_Policies/eula](https://colbygatty.github.io/LiftReel_Policies/eula), and our License Agreement at [https://colbygatty.github.io/LiftReel_Policies/license_agreement](https://raw.githubusercontent.com/ColbyGatty/LiftReel_Policies/main/license.md). If you do not agree, you must not use the App.
+**C&M Technologies LLC** ("C&M," "we," "us," or "our"), a limited liability company organized under the laws of the State of California, is committed to protecting your privacy. This Privacy Policy governs the collection, use, storage, and disclosure of personal information through the **LiftReel** app, including its website, mobile application, and related services (collectively, the "App"). By accessing, downloading, installing, or using the App, you agree to this Privacy Policy, our Terms and Conditions at [https://colbygatty.github.io/LiftReel_Policies/terms](https://colbygatty.github.io/LiftReel_Policies/terms). If you do not agree, you must not use the App.
 
 ## 1. Information We Collect
 
